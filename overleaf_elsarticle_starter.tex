@@ -1,0 +1,44 @@
+\documentclass[review,authoryear]{elsarticle}
+
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{lineno}
+\linenumbers
+
+\journal{Journal of Biomedical Informatics}
+
+\begin{document}
+
+\begin{frontmatter}
+
+\title{Factuality Preservation in Patient-Facing Medical Text Simplification: A Systematic Methodological Review with a Low-Resource Bangla Evidence Map}
+
+\author[inst1]{Your Name}
+\address[inst1]{Your Institution}
+
+\begin{abstract}
+Background: Patient-facing clinical text simplification can improve health-literacy access, but factuality failures can cause clinical risk.
+Objective: This review maps factuality-preservation mechanisms in medical text simplification and the evidence base for low-resource Bangla healthcare NLP.
+Methods: We follow PRISMA 2020 and PRISMA-S, synthesize heterogeneous evidence using SWiM, and rate outcomes using GRADE.
+\end{abstract}
+
+\begin{keyword}
+medical text simplification \sep factuality \sep clinical NLP \sep Bangla NLP \sep health literacy \sep natural language inference
+\end{keyword}
+
+\end{frontmatter}
+
+\section{Introduction}
+Medical text simplification has expanded from paragraph-level biomedical simplification to controllable medical simplification, multilingual medical simplification, and patient-facing jargon explanation \citep{devaraj2021_paragraph_level_simplification,basu2023_med_easi_finely,joseph2023_multilingual_simplification_medical,yao2024_readme_bridging_medical}. Factuality is a central safety concern because simplified output can become easier to read while introducing unsupported insertions, deletions, or relation errors \citep{devaraj2022_evaluating_factuality_text,maynez2020_faithfulness_factuality_abstractive,pagnoni2021_understanding_factuality_abstractive}.
+
+\section{Methods}
+The review protocol uses PRISMA 2020, PRISMA-S, SWiM, and GRADE \citep{page2021_prisma_2020_statement,rethlefsen2021_prisma_s_extension,campbell2020_synthesis_without_meta,guyatt2008_grade_emerging_consensus}.
+
+\section{Bangla Evidence Map}
+The Bangla evidence layer includes BanglaHealth, BanglaCHQ-Summ, Bangla-HealthNER, Bangla-MedER, BanglaBERT, and IndicXNLI-style transfer resources \citep{aziz2025_banglahealth_bengali_paraphrase,khan2023_banglachq_summ_abstractive,khan2023_nervous_about_my,islam2026_bangla_meder_multi,bhattacharjee2022_banglabert_language_pretraining,aggarwal2022_indicxnli_evaluating_multilingual}.
+
+\bibliographystyle{elsarticle-harv}
+\bibliography{factuality_clinical_ts_bangla_215refs}
+
+\end{document}
