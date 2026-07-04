@@ -1,0 +1,11 @@
+citekey,study_type,tool,randomization_or_selection,confounding_or_leakage,missing_data,outcome_measurement,selective_reporting,baseline_strength,metric_validity,statistical_testing,reproducibility,overall_judgment,notes
+basu2023_med_easi_finely,,,,,,,,,,,,,
+horiguchi2025_multimsd_multilingual_medical,,,,,,,,,,,,,
+joseph2023_multilingual_simplification_medical,,,,,,,,,,,,,
+bakker2024_cochrane_auto_aligned,,,,,,,,,,,,,
+yao2024_readme_bridging_medical,,,,,,,,,,,,,
+devaraj2021_paragraph_level_simplification,,,,,,,,,,,,,
+devaraj2022_evaluating_factuality_text,,,,,,,,,,,,,
+flores2023_medical_text_simplification,,,,,,,,,,,,,
+phatak2022_medical_text_simplification,,,,,,,,,,,,,
+moramarco2022_more_patient_friendly,,,,,,,,,,,,,

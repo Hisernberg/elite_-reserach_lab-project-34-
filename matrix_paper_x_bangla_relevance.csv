@@ -1,0 +1,216 @@
+citekey,year,title,category,direct,transferable,not_direct,not_applicable
+basu2023_med_easi_finely,2023,Med-EASi: Finely Annotated Dataset and Models for Controllable Simplification of Medical Texts,01_Core_Clinical_TS,0,0,0,1
+horiguchi2025_multimsd_multilingual_medical,2025,MultiMSD: A Corpus for Multilingual Medical Text Simplification from Online Medical References,01_Core_Clinical_TS,0,1,0,0
+joseph2023_multilingual_simplification_medical,2023,Multilingual Simplification of Medical Texts,01_Core_Clinical_TS,0,1,0,0
+bakker2024_cochrane_auto_aligned,2024,Cochrane-auto: An Aligned Dataset for the Simplification of Biomedical Abstracts,01_Core_Clinical_TS,0,0,0,1
+yao2024_readme_bridging_medical,2024,README: Bridging Medical Jargon and Lay Understanding for Patient Education through Data-Centric NLP,01_Core_Clinical_TS,0,0,0,1
+devaraj2021_paragraph_level_simplification,2021,Paragraph-level Simplification of Medical Texts,01_Core_Clinical_TS,0,0,0,1
+devaraj2022_evaluating_factuality_text,2022,Evaluating Factuality in Text Simplification,01_Core_Clinical_TS,0,0,0,1
+flores2023_medical_text_simplification,2023,Medical Text Simplification: Optimizing for Readability with Unlikelihood Training and Reranked Beam Search Decoding,01_Core_Clinical_TS,0,0,0,1
+phatak2022_medical_text_simplification,2022,Medical Text Simplification Using Reinforcement Learning (TESLEA): Deep Learning-Based Text Simplification Approach,01_Core_Clinical_TS,0,0,0,1
+moramarco2022_more_patient_friendly,2022,Towards More Patient Friendly Clinical Notes through Language Models and Ontologies,01_Core_Clinical_TS,0,0,0,1
+trienes2022_patient_friendly_clinical,2022,Patient-Friendly Clinical Notes: Towards a New Text Simplification Dataset,01_Core_Clinical_TS,0,1,0,0
+rahman2024_health_text_simplification,2024,Health Text Simplification: An Annotated Corpus for Digestive Cancer Education and Novel Strategies for Reinforcement Learning,01_Core_Clinical_TS,0,0,0,1
+pavithra2025_bridging_health_literacy,2025,Bridging Health Literacy Gaps in Indian Languages: Multilingual LLMs for Clinical Text Simplification,01_Core_Clinical_TS,0,1,0,0
+tran2025_medreadctrl_personalizing_medical,2025,MedReadCtrl: Personalizing Medical Text Generation with Readability-Controlled Instruction Learning,01_Core_Clinical_TS,0,0,0,1
+qenam2017_text_simplification_consumer,2017,Text Simplification Using Consumer Health Vocabulary to Generate Patient-Centered Radiology Reporting: Translation and Evaluation,01_Core_Clinical_TS,0,0,0,1
+makhmutova2024_medical_text_simplification,2024,Automated Medical Text Simplification for Enhanced Patient Understanding,01_Core_Clinical_TS,0,0,0,1
+vora2025_s_3_pipeline,2025,S-3 Pipeline for Biomedical Text Simplification,01_Core_Clinical_TS,0,0,0,1
+bakker2025_overview_clef_2025,2025,Overview of the CLEF 2025 SimpleText Task 1: Scientific and Biomedical Text Simplification,01_Core_Clinical_TS,0,0,0,1
+grabar2018_clear_medical_french,2018,CLEAR: A Corpus for Medical French Text Simplification,01_Core_Clinical_TS,0,1,0,0
+cardon2020_french_biomedical_text,2020,French Biomedical Text Simplification: When Small and Precise Helps,01_Core_Clinical_TS,0,1,0,0
+aziz2025_banglahealth_bengali_paraphrase,2025,BanglaHealth: A Bengali Paraphrase Dataset on Health Domain,03_Adjacent_Bangla_NLP,1,0,0,0
+khan2023_banglachq_summ_abstractive,2023,BanglaCHQ-Summ: An Abstractive Summarization Dataset for Medical Queries in Bangla Conversational Speech,03_Adjacent_Bangla_NLP,1,0,0,0
+khan2023_nervous_about_my,2023,NERvous About My Health: Constructing a Bengali Medical Named Entity Recognition Dataset,03_Adjacent_Bangla_NLP,1,0,0,0
+islam2026_bangla_meder_multi,2026,Bangla-MedER: Multi-BERT Ensemble Approach for the Recognition of Bangla Medical Entities,03_Adjacent_Bangla_NLP,1,0,0,0
+bhattacharjee2022_banglabert_language_pretraining,2022,BanglaBERT: Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla,03_Adjacent_Bangla_NLP,1,0,0,0
+das2024_banglat5_banglabert0_pretrained,2024,BanglaT5 and BanglaBERT0: Large Pretrained Language Models for Bangla,03_Adjacent_Bangla_NLP,1,0,0,0
+mahtab2025_benchmark_context_driven,2025,A Benchmark Dataset and Context-Driven Approach for Bangla Named Entity Recognition,03_Adjacent_Bangla_NLP,1,0,0,0
+ekbal2008_bengali_named_entity,2008,Bengali Named Entity Recognition Using Support Vector Machine,03_Adjacent_Bangla_NLP,1,0,0,0
+hossain2017_bengali_question_answering,2017,A Dataset for Bengali Question Answering in the Health Domain,03_Adjacent_Bangla_NLP,1,0,0,0
+laskar2023_benllmeval_comprehensive_evaluation,2023,BenLLMEval: A Comprehensive Evaluation into the Potentials and Pitfalls of Large Language Models on Bengali NLP,03_Adjacent_Bangla_NLP,1,0,0,0
+kakwani2020_indicnlpsuite_monolingual_corpora,2020,"IndicNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages",03_Adjacent_Bangla_NLP,1,0,0,0
+ramesh2022_samanantar_largest_publicly,2022,Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages,03_Adjacent_Bangla_NLP,1,0,0,0
+doddapaneni2023_indictrans2_high_quality,2023,IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages,03_Adjacent_Bangla_NLP,1,0,0,0
+costajuss2022_no_language_left,2022,No Language Left Behind: Scaling Human-Centered Machine Translation,03_Adjacent_Bangla_NLP,0,1,0,0
+dabre2020_multilingual_neural_machine,2020,A Survey of Multilingual Neural Machine Translation,03_Adjacent_Bangla_NLP,0,1,0,0
+hasan2020_not_low_resource,2020,"Not Low-Resource Anymore: Aligner Ensembling, Batch Filtering, and New Datasets for Bengali-English Machine Translation",03_Adjacent_Bangla_NLP,1,0,0,0
+akter2025_banglat5_mhealth_bengali,2025,BanglaT5-mHealth: A Bengali Health-Domain Paraphrasing Model,03_Adjacent_Bangla_NLP,1,0,0,0
+maynez2020_faithfulness_factuality_abstractive,2020,On Faithfulness and Factuality in Abstractive Summarization,04_Factuality_Methods,0,0,0,1
+pagnoni2021_understanding_factuality_abstractive,2021,Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics,04_Factuality_Methods,0,0,0,1
+gabriel2021_go_figure_meta,2021,GO FIGURE: A Meta Evaluation of Factuality in Summarization,04_Factuality_Methods,0,0,0,1
+falke2019_ranking_generated_summaries,2019,Ranking Generated Summaries by Correctness: An Interesting but Challenging Application for Natural Language Inference,04_Factuality_Methods,0,0,0,1
+kryscinski2020_evaluating_factual_consistency,2020,Evaluating the Factual Consistency of Abstractive Text Summarization,04_Factuality_Methods,0,0,0,1
+goyal2021_annotating_modeling_fine,2021,Annotating and Modeling Fine-grained Factuality in Summarization,04_Factuality_Methods,0,0,0,1
+fabbri2021_summeval_re_evaluating,2021,SummEval: Re-evaluating Summarization Evaluation,04_Factuality_Methods,0,0,0,1
+durmus2020_feqa_question_answering,2020,FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization,04_Factuality_Methods,0,0,0,1
+wang2020_asking_answering_questions,2020,Asking and Answering Questions to Evaluate the Factual Consistency of Summaries,04_Factuality_Methods,0,0,0,1
+scialom2021_questeval_summarization_asks,2021,QuestEval: Summarization Asks for Fact-based Evaluation,04_Factuality_Methods,0,0,0,1
+laban2022_summac_re_visiting,2022,SummaC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization,04_Factuality_Methods,0,0,0,1
+min2023_factscore_fine_grained,2023,FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation,04_Factuality_Methods,0,0,0,1
+zha2023_alignscore_evaluating_factual,2023,AlignScore: Evaluating Factual Consistency with A Unified Alignment Function,04_Factuality_Methods,0,0,0,1
+koto2020_ffci_framework_interpretable,2020,FFCI: A Framework for Interpretable Automatic Evaluation of Summarization,04_Factuality_Methods,0,0,0,1
+cao2018_faithful_original_fact,2018,Faithful to the Original: Fact Aware Neural Abstractive Summarization,04_Factuality_Methods,0,0,0,1
+goodrich2019_assessing_factual_accuracy,2019,Assessing the Factual Accuracy of Generated Text,04_Factuality_Methods,0,0,0,1
+dziri2022_evaluating_attribution_dialogue,2022,Evaluating Attribution in Dialogue Systems: The BEGIN Benchmark,04_Factuality_Methods,0,0,0,1
+rashkin2023_measuring_attribution_natural,2023,Measuring Attribution in Natural Language Generation Models,04_Factuality_Methods,0,0,0,1
+li2023_hallucination_natural_language,2023,Survey of Hallucination in Natural Language Generation,04_Factuality_Methods,0,0,0,1
+ji2023_hallucination_natural_language,2023,Survey of Hallucination in Natural Language Generation,04_Factuality_Methods,0,0,0,1
+manakul2023_selfcheckgpt_zero_resource,2023,SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models,04_Factuality_Methods,0,0,0,1
+li2023_halueval_hallucination_evaluation,2023,HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models,04_Factuality_Methods,0,0,0,1
+chen2024_hallucination_detection_robustly,2024,Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models,04_Factuality_Methods,0,0,0,1
+tam2023_checking_facts_fact,2023,Checking the Facts: A Survey of Fact-Checking with Large Language Models,04_Factuality_Methods,0,0,0,1
+huang2025_hallucination_language_principles,2025,"A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",04_Factuality_Methods,0,0,0,1
+liu2024_lost_middle_how,2024,Lost in the Middle: How Language Models Use Long Contexts,04_Factuality_Methods,0,0,0,1
+romanov2018_lessons_natural_language,2018,Lessons from Natural Language Inference in the Clinical Domain,07_Medical_NLI,0,0,0,1
+conneau2018_xnli_evaluating_cross,2018,XNLI: Evaluating Cross-lingual Sentence Representations,07_Medical_NLI,0,0,1,0
+aggarwal2022_indicxnli_evaluating_multilingual,2022,IndicXNLI: Evaluating Multilingual Inference for Indian Languages,07_Medical_NLI,1,0,0,0
+bowman2015_annotated_learning_natural,2015,A Large Annotated Corpus for Learning Natural Language Inference,07_Medical_NLI,0,0,0,1
+williams2018_broad_coverage_challenge,2018,A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference,07_Medical_NLI,0,0,0,1
+herlihy2021_mednli_not_immune,2021,MedNLI Is Not Immune: Natural Language Inference Artifacts in the Clinical Domain,07_Medical_NLI,0,0,0,1
+oul2025_turkmednli_turkish_medical,2025,TurkMedNLI: A Turkish Medical Natural Language Inference Dataset,07_Medical_NLI,0,1,0,0
+chaban2024_enhancing_medical_nli,2024,Enhancing Medical NLI with Integrated Domain Knowledge,07_Medical_NLI,0,0,0,1
+wadden2020_fact_or_fiction,2020,Fact or Fiction: Verifying Scientific Claims,07_Medical_NLI,0,0,0,1
+saakyan2021_covid_fact_fact,2021,COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic,07_Medical_NLI,0,0,0,1
+kotonya2020_explainable_fact_checking,2020,Explainable Automated Fact-Checking for Public Health Claims,07_Medical_NLI,0,0,0,1
+thorne2018_fever_fact_extraction,2018,FEVER: A Large-scale Dataset for Fact Extraction and VERification,07_Medical_NLI,0,0,0,1
+nie2019_combining_fact_extraction,2019,Combining Fact Extraction and Verification with Neural Semantic Matching Networks,07_Medical_NLI,0,0,0,1
+schuster2021_get_your_vitamin,2021,Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence,07_Medical_NLI,0,0,0,1
+zetsu2024_edit_constrained_decoding,2024,Edit-Constrained Decoding for Sentence Simplification,05_Constrained_Decoding,0,0,0,1
+hokamp2017_lexically_constrained_decoding,2017,Lexically Constrained Decoding for Sequence Generation Using Grid Beam Search,05_Constrained_Decoding,0,0,0,1
+post2018_fast_lexically_constrained,2018,Fast Lexically Constrained Decoding with Dynamic Beam Allocation for Neural Machine Translation,05_Constrained_Decoding,0,0,0,1
+anderson2017_guided_open_vocabulary,2017,Guided Open Vocabulary Image Captioning with Constrained Beam Search,05_Constrained_Decoding,0,0,0,1
+lu2021_neurologic_decoding_un,2021,Neurologic Decoding: (Un)supervised Neural Text Generation with Predicate Logic Constraints,05_Constrained_Decoding,0,0,0,1
+welleck2020_neural_text_generation,2020,Neural Text Generation with Unlikelihood Training,05_Constrained_Decoding,0,0,0,1
+pascual2021_plug_play_controlled,2021,A Plug-and-Play Method for Controlled Text Generation,05_Constrained_Decoding,0,0,0,1
+dathathri2020_plug_play_language,2020,Plug and Play Language Models: A Simple Approach to Controlled Text Generation,05_Constrained_Decoding,0,0,0,1
+krause2021_gedi_generative_discriminator,2021,GeDi: Generative Discriminator Guided Sequence Generation,05_Constrained_Decoding,0,0,0,1
+shin2020_autoprompt_eliciting_knowledge,2020,AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts,05_Constrained_Decoding,0,0,0,1
+hu2017_controlled_generation_text,2017,Toward Controlled Generation of Text,05_Constrained_Decoding,0,0,0,1
+kumar2020_controlled_text_generation,2020,Controlled Text Generation as Continuous Optimization with Multiple Constraints,05_Constrained_Decoding,0,0,0,1
+lewis2020_retrieval_augmented_generation,2020,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,06_RAG_KG_Medical,0,0,0,1
+guu2020_realm_retrieval_augmented,2020,REALM: Retrieval-Augmented Language Model Pre-Training,06_RAG_KG_Medical,0,0,0,1
+karpukhin2020_dense_passage_retrieval,2020,Dense Passage Retrieval for Open-Domain Question Answering,06_RAG_KG_Medical,0,0,0,1
+izacard2021_leveraging_passage_retrieval,2021,Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering,06_RAG_KG_Medical,0,0,0,1
+asai2024_self_rag_learning,2024,"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",06_RAG_KG_Medical,0,0,0,1
+gao2024_retrieval_augmented_generation,2024,Retrieval-Augmented Generation for Large Language Models: A Survey,06_RAG_KG_Medical,0,0,0,1
+edge2024_local_global_graph,2024,From Local to Global: A Graph RAG Approach to Query-Focused Summarization,06_RAG_KG_Medical,0,0,0,1
+xiong2024_benchmarking_retrieval_augmented,2024,Benchmarking Retrieval-Augmented Generation for Medicine,06_RAG_KG_Medical,0,0,0,1
+singhal2023_language_encode_clinical,2023,Large Language Models Encode Clinical Knowledge,06_RAG_KG_Medical,0,0,0,1
+singhal2025_expert_level_medical,2025,Toward Expert-Level Medical Question Answering with Large Language Models,06_RAG_KG_Medical,0,0,0,1
+jin2019_pubmedqa_biomedical_research,2019,PubMedQA: A Dataset for Biomedical Research Question Answering,06_RAG_KG_Medical,0,0,0,1
+luo2022_biogpt_generative_pre,2022,BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining,06_RAG_KG_Medical,0,0,0,1
+lee2020_biobert_pre_trained,2020,BioBERT: A Pre-trained Biomedical Language Representation Model for Biomedical Text Mining,06_RAG_KG_Medical,0,0,0,1
+alsentzer2019_publicly_available_clinical,2019,Publicly Available Clinical BERT Embeddings,06_RAG_KG_Medical,0,0,0,1
+peng2019_transfer_learning_biomedical,2019,Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets,06_RAG_KG_Medical,0,0,0,1
+bodenreider2004_unified_medical_language,2004,The Unified Medical Language System (UMLS): Integrating Biomedical Terminology,06_RAG_KG_Medical,0,0,0,1
+lindberg1993_unified_medical_language,1993,The Unified Medical Language System,06_RAG_KG_Medical,0,0,0,1
+zeng2006_exploring_developing_consumer,2006,Exploring and Developing Consumer Health Vocabularies,06_RAG_KG_Medical,0,0,0,1
+saggion2017_text_simplification,2017,Automatic Text Simplification,02_Adjacent_Multilingual_TS,0,0,0,1
+alvamanchego2020_easse_easier_sentence,2020,EASSE: Easier Automatic Sentence Simplification Evaluation,02_Adjacent_Multilingual_TS,0,0,0,1
+xu2016_optimizing_statistical_machine,2016,Optimizing Statistical Machine Translation for Text Simplification,02_Adjacent_Multilingual_TS,0,0,0,1
+zhang2017_sentence_simplification_deep,2017,Sentence Simplification with Deep Reinforcement Learning,02_Adjacent_Multilingual_TS,0,0,0,1
+nisioi2017_exploring_neural_text,2017,Exploring Neural Text Simplification Models,02_Adjacent_Multilingual_TS,0,0,0,1
+martin2020_muss_multilingual_unsupervised,2020,MUSS: Multilingual Unsupervised Sentence Simplification by Mining Paraphrases,02_Adjacent_Multilingual_TS,0,1,0,0
+martin2022_muss_multilingual_simplification,2022,MUSS: Multilingual Simplification by Encoding Simplification Operations,02_Adjacent_Multilingual_TS,0,1,0,0
+scarton2018_learning_simplification_specific,2018,Learning Simplifications for Specific Target Audiences,02_Adjacent_Multilingual_TS,0,0,0,1
+maddela2018_word_complexity_lexicon,2018,A Word-Complexity Lexicon and A Neural Readability Ranking Model for Lexical Simplification,02_Adjacent_Multilingual_TS,0,0,0,1
+shardlow2014_text_simplification,2014,A Survey of Automated Text Simplification,02_Adjacent_Multilingual_TS,0,0,0,1
+paetzold2017_lexical_simplification,2017,A Survey on Lexical Simplification,02_Adjacent_Multilingual_TS,0,0,0,1
+althanyyan2021_text_simplification,2021,Automated Text Simplification: A Survey,02_Adjacent_Multilingual_TS,0,0,0,1
+siddharthan2014_research_text_simplification,2014,A Survey of Research on Text Simplification,02_Adjacent_Multilingual_TS,0,0,0,1
+zhu2010_monolingual_tree_translation,2010,A Monolingual Tree-based Translation Model for Sentence Simplification,02_Adjacent_Multilingual_TS,0,0,0,1
+woodsend2011_learning_simplify_sentences,2011,Learning to Simplify Sentences with Quasi-Synchronous Grammar and Integer Programming,02_Adjacent_Multilingual_TS,0,0,0,1
+narayan2014_hybrid_simplification_deep,2014,Hybrid Simplification using Deep Semantics and Machine Translation,02_Adjacent_Multilingual_TS,0,0,0,1
+wubben2012_sentence_simplification_monolingual,2012,Sentence Simplification by Monolingual Machine Translation,02_Adjacent_Multilingual_TS,0,0,0,1
+coster2011_simple_english_wikipedia,2011,Simple English Wikipedia: A New Text Simplification Task,02_Adjacent_Multilingual_TS,0,0,0,1
+zhang2015_character_level_convolutional,2015,Character-level Convolutional Networks for Text Classification,02_Adjacent_Multilingual_TS,0,0,0,1
+zhao2018_integrating_transformer_paraphrase,2018,Integrating Transformer and Paraphrase Rules for Sentence Simplification,02_Adjacent_Multilingual_TS,0,0,0,1
+kriz2019_simplification_paraphrases_context,2019,Simplification Using Paraphrases and Context-based Lexical Substitution,02_Adjacent_Multilingual_TS,0,0,0,1
+lin2004_rouge_package_evaluation,2004,ROUGE: A Package for Automatic Evaluation of Summaries,07_Evaluation_Methods,0,0,0,1
+papineni2002_bleu_evaluation_machine,2002,BLEU: A Method for Automatic Evaluation of Machine Translation,07_Evaluation_Methods,0,0,0,1
+banerjee2005_meteor_metric_mt,2005,METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments,07_Evaluation_Methods,0,0,0,1
+zhang2020_bertscore_evaluating_text,2020,BERTScore: Evaluating Text Generation with BERT,07_Evaluation_Methods,0,0,0,1
+sellam2020_bleurt_learning_robust,2020,BLEURT: Learning Robust Metrics for Text Generation,07_Evaluation_Methods,0,0,0,1
+rei2020_comet_neural_framework,2020,COMET: A Neural Framework for MT Evaluation,07_Evaluation_Methods,0,0,0,1
+landis1977_measurement_observer_agreement,1977,The Measurement of Observer Agreement for Categorical Data,07_Evaluation_Methods,0,0,0,1
+fleiss1971_measuring_nominal_agreement,1971,Measuring Nominal Scale Agreement among Many Raters,07_Evaluation_Methods,0,0,0,1
+cohen1960_coefficient_agreement_nominal,1960,A Coefficient of Agreement for Nominal Scales,07_Evaluation_Methods,0,0,0,1
+krippendorff2011_computing_krippendorff_s,2011,Computing Krippendorff's Alpha-Reliability,07_Evaluation_Methods,0,0,0,1
+belz2006_comparing_human_evaluation,2006,Comparing Automatic and Human Evaluation of NLG Systems,07_Evaluation_Methods,0,0,0,1
+vanderlee2019_best_practices_human,2019,Best Practices for the Human Evaluation of Automatically Generated Text,07_Evaluation_Methods,0,0,0,1
+howcroft2020_twenty_years_confusion,2020,Twenty Years of Confusion in Human Evaluation: NLG Needs Evaluation Sheets and Standardised Definitions,07_Evaluation_Methods,0,0,0,1
+flesch1948_readability_yardstick,1948,A New Readability Yardstick,07_Evaluation_Methods,0,0,0,1
+kincaid1975_derivation_readability_formulas,1975,Derivation of New Readability Formulas for Navy Enlisted Personnel,07_Evaluation_Methods,0,0,0,1
+mclaughlin1969_smog_grading_readability,1969,SMOG Grading: A New Readability Formula,07_Evaluation_Methods,0,0,0,1
+dale1948_formula_predicting_readability,1948,A Formula for Predicting Readability,07_Evaluation_Methods,0,0,0,1
+badarudeen2010_assessing_readability_patient,2010,Assessing Readability of Patient Education Materials: Current Role in Orthopaedics,07_Evaluation_Methods,0,0,0,1
+weiss2003_health_literacy_manual,2003,Health Literacy: A Manual for Clinicians,07_Evaluation_Methods,0,0,0,1
+berkman2011_low_health_literacy,2011,Low Health Literacy and Health Outcomes: An Updated Systematic Review,07_Evaluation_Methods,0,0,0,1
+page2021_prisma_2020_statement,2021,The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews,08_Systematic_Review_Methods,0,0,0,1
+rethlefsen2021_prisma_s_extension,2021,PRISMA-S: An Extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews,08_Systematic_Review_Methods,0,0,0,1
+campbell2020_synthesis_without_meta,2020,Synthesis without Meta-analysis (SWiM) in Systematic Reviews: Reporting Guideline,08_Systematic_Review_Methods,0,0,0,1
+guyatt2008_grade_emerging_consensus,2008,GRADE: An Emerging Consensus on Rating Quality of Evidence and Strength of Recommendations,08_Systematic_Review_Methods,0,0,0,1
+sterne2019_rob_2_revised,2019,RoB 2: A Revised Tool for Assessing Risk of Bias in Randomised Trials,08_Systematic_Review_Methods,0,0,0,1
+sterne2016_robins_i_tool,2016,ROBINS-I: A Tool for Assessing Risk of Bias in Non-randomised Studies of Interventions,08_Systematic_Review_Methods,0,0,0,1
+shea2017_amstar_2_critical,2017,"AMSTAR 2: A Critical Appraisal Tool for Systematic Reviews That Include Randomised or Non-randomised Studies of Healthcare Interventions, or Both",08_Systematic_Review_Methods,0,0,0,1
+cooke2012_beyond_pico_spider,2012,Beyond PICO: The SPIDER Tool for Qualitative Evidence Synthesis,08_Systematic_Review_Methods,0,0,0,1
+thomas2008_thematic_synthesis_qualitative,2008,Methods for the Thematic Synthesis of Qualitative Research in Systematic Reviews,08_Systematic_Review_Methods,0,0,0,1
+haddaway2022_prisma2020_r_package,2022,PRISMA2020: An R Package and Shiny App for Producing PRISMA 2020-compliant Flow Diagrams,08_Systematic_Review_Methods,0,0,0,1
+ouzzani2016_rayyan_web_mobile,2016,Rayyan: A Web and Mobile App for Systematic Reviews,08_Systematic_Review_Methods,0,0,0,1
+aria2017_bibliometrix_r_tool,2017,Bibliometrix: An R-tool for Comprehensive Science Mapping Analysis,08_Systematic_Review_Methods,0,0,0,1
+vaneck2010_software_vosviewer_computer,2010,"Software Survey: VOSviewer, a Computer Program for Bibliometric Mapping",08_Systematic_Review_Methods,0,0,0,1
+moher2009_preferred_reporting_items,2009,Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement,08_Systematic_Review_Methods,0,0,0,1
+higgins2023_cochrane_handbook_systematic,2023,Cochrane Handbook for Systematic Reviews of Interventions,08_Systematic_Review_Methods,0,0,0,1
+aromataris2020_jbi_manual_evidence,2020,JBI Manual for Evidence Synthesis,08_Systematic_Review_Methods,0,0,0,1
+hong2018_mixed_appraisal_tool,2018,"Mixed Methods Appraisal Tool (MMAT), Version 2018",08_Systematic_Review_Methods,0,0,0,1
+devlin2019_bert_pre_training,2019,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,10_LLM_Backbones_LowResource,0,0,0,1
+raffel2020_exploring_limits_transfer,2020,Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer,10_LLM_Backbones_LowResource,0,0,0,1
+lewis2020_bart_denoising_sequence,2020,"BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",10_LLM_Backbones_LowResource,0,0,0,1
+xue2021_mt5_massively_multilingual,2021,mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer,10_LLM_Backbones_LowResource,0,1,0,0
+liu2020_multilingual_denoising_pre,2020,Multilingual Denoising Pre-training for Neural Machine Translation,10_LLM_Backbones_LowResource,0,1,0,0
+conneau2020_unsupervised_cross_lingual,2020,Unsupervised Cross-lingual Representation Learning at Scale,10_LLM_Backbones_LowResource,0,1,0,0
+pfeiffer2020_mad_x_adapter,2020,MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer,10_LLM_Backbones_LowResource,0,1,0,0
+houlsby2019_parameter_efficient_transfer,2019,Parameter-Efficient Transfer Learning for NLP,10_LLM_Backbones_LowResource,0,0,0,1
+hu2022_lora_low_rank,2022,LoRA: Low-Rank Adaptation of Large Language Models,10_LLM_Backbones_LowResource,0,0,0,1
+joshi2020_state_fate_linguistic,2020,The State and Fate of Linguistic Diversity and Inclusion in the NLP World,10_LLM_Backbones_LowResource,0,1,0,0
+ruder2019_cross_lingual_word,2019,A Survey of Cross-lingual Word Embedding Models,10_LLM_Backbones_LowResource,0,0,0,1
+lauscher2020_zero_hero_limitations,2020,From Zero to Hero: On the Limitations of Zero-Shot Cross-Lingual Transfer with Multilingual Transformers,10_LLM_Backbones_LowResource,0,0,0,1
+touvron2023_llama_2_open,2023,Llama 2: Open Foundation and Fine-Tuned Chat Models,10_LLM_Backbones_LowResource,0,0,0,1
+dubey2024_llama_3_herd,2024,The Llama 3 Herd of Models,10_LLM_Backbones_LowResource,0,0,0,1
+yang2024_qwen2_5_technical,2024,Qwen2.5 Technical Report,10_LLM_Backbones_LowResource,0,0,0,1
+team2024_gemma_open_gemini,2024,Gemma: Open Models Based on Gemini Research and Technology,10_LLM_Backbones_LowResource,0,0,0,1
+team2024_gemma_2_improving,2024,Gemma 2: Improving Open Language Models at a Practical Size,10_LLM_Backbones_LowResource,0,0,0,1
+jiang2023_mistral_7b,2023,Mistral 7B,10_LLM_Backbones_LowResource,0,0,0,1
+dettmers2023_qlora_efficient_finetuning,2023,QLoRA: Efficient Finetuning of Quantized LLMs,10_LLM_Backbones_LowResource,0,0,0,1
+dettmers2022_llm_int8_8,2022,LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale,10_LLM_Backbones_LowResource,0,0,0,1
+johnson2016_mimic_iii_freely,2016,"MIMIC-III, A Freely Accessible Critical Care Database",11_Clinical_NLP_Datasets,0,0,0,1
+johnson2023_mimic_iv_freely,2023,"MIMIC-IV, A Freely Accessible Electronic Health Record Dataset",11_Clinical_NLP_Datasets,0,0,0,1
+irvin2019_chexpert_chest_radiograph,2019,CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison,11_Clinical_NLP_Datasets,0,0,0,1
+bustos2020_padchest_chest_x,2020,PadChest: A Large Chest X-Ray Image Dataset with Multi-label Annotated Reports,11_Clinical_NLP_Datasets,0,0,0,1
+demnerfushman2016_preparing_collection_radiology,2016,Preparing a Collection of Radiology Examinations for Distribution and Retrieval,11_Clinical_NLP_Datasets,0,0,0,1
+uzuner2011_2010_i2b2_va,2011,"2010 i2b2/VA Challenge on Concepts, Assertions, and Relations in Clinical Text",11_Clinical_NLP_Datasets,0,0,0,1
+uzuner2007_evaluating_state_art,2007,Evaluating the State-of-the-Art in Automatic De-identification,11_Clinical_NLP_Datasets,0,0,0,1
+henry2020_2018_n2c2_shared,2020,2018 n2c2 Shared Task on Adverse Drug Events and Medication Extraction in Electronic Health Records,11_Clinical_NLP_Datasets,0,0,0,1
+soysal2018_clamp_toolkit_efficiently,2018,CLAMP: A Toolkit for Efficiently Building Customized Clinical Natural Language Processing Pipelines,11_Clinical_NLP_Datasets,0,0,0,1
+savova2010_mayo_clinical_text,2010,"Mayo Clinical Text Analysis and Knowledge Extraction System (cTAKES): Architecture, Component Evaluation and Applications",11_Clinical_NLP_Datasets,0,0,0,1
+aronson2010_overview_metamap_historical,2010,An Overview of MetaMap: Historical Perspective and Recent Advances,11_Clinical_NLP_Datasets,0,0,0,1
+luo2022_natural_language_processing,2022,Natural Language Processing for EHR-Based Computational Phenotyping,11_Clinical_NLP_Datasets,0,0,0,1
+wang2018_clinical_information_extraction,2018,Clinical Information Extraction Applications: A Literature Review,11_Clinical_NLP_Datasets,0,0,0,1
+jensen2012_mining_electronic_health,2012,Mining Electronic Health Records: Towards Better Research Applications and Clinical Care,11_Clinical_NLP_Datasets,0,0,0,1
+shickel2018_deep_ehr_recent,2018,Deep EHR: A Survey of Recent Advances in Deep Learning Techniques for Electronic Health Record Analysis,11_Clinical_NLP_Datasets,0,0,0,1
+wallace2016_extracting_pico_sentences,2016,Extracting PICO Sentences from Clinical Trial Reports Using Supervised Distant Supervision,12_Clinical_Summarization_Health_Literacy,0,0,0,1
+marshall2015_automating_risk_bias,2015,Automating Risk of Bias Assessment for Clinical Trials,12_Clinical_Summarization_Health_Literacy,0,0,0,1
+lehman2019_inferring_which_medical,2019,Inferring Which Medical Treatments Work from Reports of Clinical Trials,12_Clinical_Summarization_Health_Literacy,0,0,0,1
+wallace2012_deploying_interactive_machine,2012,Deploying an Interactive Machine Learning System in an Evidence-based Practice Center,12_Clinical_Summarization_Health_Literacy,0,0,0,1
+mishra2014_text_summarization_biomedical,2014,Text Summarization in the Biomedical Domain: A Systematic Review of Recent Research,12_Clinical_Summarization_Health_Literacy,0,0,0,1
+afantenos2005_summarization_medical_documents,2005,Summarization from Medical Documents: A Survey,12_Clinical_Summarization_Health_Literacy,0,0,0,1
+demnerfushman2007_answering_clinical_questions,2007,Answering Clinical Questions with Knowledge-Based and Statistical Techniques,12_Clinical_Summarization_Health_Literacy,0,0,0,1
+nallapati2016_abstractive_text_summarization,2016,Abstractive Text Summarization Using Sequence-to-Sequence RNNs and Beyond,12_Clinical_Summarization_Health_Literacy,0,0,0,1
+see2017_get_point_summarization,2017,Get To The Point: Summarization with Pointer-Generator Networks,12_Clinical_Summarization_Health_Literacy,0,0,0,1
+narayan2018_don_t_give,2018,"Don't Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization",12_Clinical_Summarization_Health_Literacy,0,0,0,1
+grusky2018_newsroom_1_3,2018,Newsroom: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies,12_Clinical_Summarization_Health_Literacy,0,0,0,1
+zhang2020_pegasus_pre_training,2020,PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization,12_Clinical_Summarization_Health_Literacy,0,0,0,1
+gidiotis2020_divide_conquer_summarization,2020,A Divide-and-Conquer Approach to the Summarization of Long Documents,12_Clinical_Summarization_Health_Literacy,0,0,0,1
+cohan2018_discourse_aware_attention,2018,A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents,12_Clinical_Summarization_Health_Literacy,0,0,0,1
+sotudeh2019_generating_extended_summaries,2019,On Generating Extended Summaries of Long Documents,12_Clinical_Summarization_Health_Literacy,0,0,0,1

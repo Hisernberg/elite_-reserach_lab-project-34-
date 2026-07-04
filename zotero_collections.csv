@@ -1,0 +1,14 @@
+collection_name,description
+00_To_Verify,Records pending DOI/Crossref/ACL/arXiv/PubMed verification or PDF attachment
+01_Core_Clinical_TS,Medical/clinical text simplification and patient-facing explanations
+02_Adjacent_Multilingual_TS,Multilingual/cross-lingual/low-resource text simplification
+03_Adjacent_Bangla_NLP,"Bangla/Bengali healthcare NLP, Bangla resources, Indic transfer"
+04_Factuality_Methods,"Factuality, faithfulness, hallucination, attribution, fact checking"
+05_Constrained_Decoding,"Lexically constrained, logic-constrained, and controlled generation"
+06_RAG_KG_Medical,"RAG, KG, graph, medical QA, terminology, clinical grounding"
+07_Medical_NLI,"Clinical/medical NLI, XNLI/IndicXNLI, biomedical fact verification"
+07_Evaluation_Methods,"Readability, automatic metrics, human evaluation, agreement"
+08_Systematic_Review_Methods,"PRISMA, PRISMA-S, SWiM, GRADE, RoB, AMSTAR, bibliometrics"
+10_LLM_Backbones_LowResource,"LLM backbones, multilingual transfer, adapters, quantization"
+11_Clinical_NLP_Datasets,"MIMIC, clinical corpora, clinical NLP toolkits/resources"
+12_Clinical_Summarization_Health_Literacy,"Biomedical summarization, lay summarization, health literacy"

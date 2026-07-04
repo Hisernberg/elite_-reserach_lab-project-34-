@@ -1,0 +1,23 @@
+tag,meaning,suggested_zotero_color
+factuality,"Paper proposes/evaluates factuality, faithfulness, hallucination, or attribution",red
+readability,Paper addresses readability assessment/control,orange
+bangla,Direct Bangla/Bengali relevance,green
+indic,Indic-language relevance beyond Bangla,green
+multilingual,Two or more languages or cross-lingual transfer,blue
+low-resource,Low-resource setting or transfer method,purple
+ner,Named entity recognition or entity extraction,teal
+nli,Natural language inference or entailment,teal
+rag,Retrieval-augmented generation,teal
+graph,"Knowledge graph, fact graph, ontology, graph grounding",teal
+constrained-decoding,Decoding-time lexical/logic/control constraints,pink
+mt5,mT5 or text-to-text multilingual seq2seq backbone,gray
+llm,Large language model baseline or method,gray
+expert-validated,Expert/clinician/human-validated dataset or evaluation,gold
+synthetic,"Synthetic, LLM-generated, auto-aligned, or weakly supervised data",gold
+human-eval,Reports human evaluation,gold
+systematic-review,Survey/systematic review/methodology paper,navy
+dataset,Introduces or relies on a dataset/resource,brown
+medical-text-simplification,Core medical/clinical simplification,red
+health-literacy,Health literacy or patient comprehension framing,orange
+medical-nli,Clinical or biomedical natural language inference,teal
+baseline,Backbone model or background baseline,gray
