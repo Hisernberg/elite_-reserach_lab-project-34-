@@ -1,0 +1,78 @@
+\documentclass[review]{elsarticle}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage{multirow}
+
+\journal{Journal of Biomedical Informatics}
+
+\begin{document}
+
+\begin{frontmatter}
+
+\title{Factuality Preservation in Patient-Facing Medical Text Simplification: A Systematic Methodological Review with a Low-Resource Bangla Evidence Map}
+
+\author[inst1]{First Author}
+\author[inst1]{Second Author}
+\address[inst1]{Bangla Clinical NLP Initiative}
+
+\begin{abstract}
+\textbf{Objective:} To systematically review methods, datasets, and evaluation practices for factuality-preserving medical text simplification and assess transferability to Bangla healthcare NLP. 
+\textbf{Methods:} We will follow PRISMA 2020 and PRISMA-S. Searches cover ACL Anthology, PubMed/PMC, Scopus, ScienceDirect, ACM Digital Library, and IEEE Xplore for 2020--2025 peer-reviewed papers. Preprints and short weak conference papers are excluded from the analytical corpus. 
+\textbf{Results:} The planned analytical corpus contains 80 selected peer-reviewed studies grouped by clinical simplification, factuality evaluation, medical NLI, Bangla/Indic healthcare NLP, RAG/KG grounding, constrained decoding, datasets, and evaluation methods. 
+\textbf{Conclusion:} The review will identify evidence gaps in relation-level factuality, Bangla clinical simplification resources, and human evaluation rigor.
+\end{abstract}
+
+\begin{keyword}
+medical text simplification \sep factuality \sep clinical NLP \sep Bangla NLP \sep low-resource languages \sep systematic review
+\end{keyword}
+
+\end{frontmatter}
+
+\section{Introduction}
+Clinical documents are difficult for patients to understand, and factual errors in simplification can introduce clinical risk. This review focuses on factuality preservation across entities, relations, and attributes, with a low-resource Bangla evidence map.
+
+\section{Methods}
+\subsection{Protocol and reporting}
+This review follows PRISMA 2020 and PRISMA-S. The search strategy and full screening log are provided in Supplementary Files S1--S4.
+
+\subsection{Eligibility criteria}
+The analytical corpus includes peer-reviewed journal articles and full-length conference papers from 2020--2025. Preprint-only papers, editorials, posters, non-archival demos, and weak short conference papers are excluded.
+
+\subsection{Search strategy}
+The search combines clinical/patient-facing text, simplification/explanation, factuality/faithfulness, and methods. Full Boolean strings are in Supplementary File S1.
+
+\subsection{Screening and data extraction}
+Two reviewers independently screen titles/abstracts and full texts. The extraction codebook includes citation, venue, task, architecture, dataset, language, factuality method, readability metric, human evaluation, risk of bias, and Bangla relevance.
+
+\subsection{Risk of bias and certainty}
+Benchmark/model papers are assessed using a custom NLP-Bias tool. GRADE certainty is rated for factuality, readability, patient comprehension, Bangla transferability, and reproducibility.
+
+\section{Results}
+\subsection{Search flow}
+Insert PRISMA Figure 1 here after the locked database search.
+
+\subsection{Characteristics of the included corpus}
+Use Table 2 from \texttt{top80\_selected\_corpus.csv}.
+
+\subsection{Factuality preservation taxonomy}
+Use Figure 2 and the factuality matrix from the workbook.
+
+\subsection{Dataset and resource landscape}
+Use Table 3 from \texttt{dataset\_inventory.csv}.
+
+\subsection{Model and method comparison}
+Use Table 4 from \texttt{model\_comparison\_table.csv}.
+
+\section{Discussion}
+Discuss gaps G1--G7 and their relationship to future Bangla clinical simplification systems.
+
+\section{Conclusion}
+This review will provide a reproducible evidence map for factuality-preserving clinical text simplification and a concrete research agenda for low-resource Bangla healthcare NLP.
+
+\bibliographystyle{elsarticle-num}
+\bibliography{selected_top80_corpus}
+
+\end{document}

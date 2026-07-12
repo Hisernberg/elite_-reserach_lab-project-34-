@@ -1,0 +1,6 @@
+Outcome,Starting_Certainty,Risk_of_Bias,Inconsistency,Indirectness,Imprecision,Publication_Bias,Final_Certainty,Rationale,Implication
+Factuality preservation,Low,Serious likely,Serious,Serious for Bangla,Serious,Likely,Very Low to Low,Heterogeneous metrics; few medical/Bangla studies,Need expert-validated Bangla factuality benchmark.
+Readability improvement,Low,Moderate,Serious,Moderate,Serious,Likely,Low,Readability metrics not aligned across languages,Need Bangla readability validation.
+Patient comprehension,Low,Serious,Serious,Very serious,Very serious,Likely,Very Low,Few patient studies; mostly automatic metrics,Need patient/clinician evaluation.
+Bangla transferability,Low,Serious,Serious,Very serious,Serious,Likely,Very Low,Evidence is indirect from English/multilingual NLP,Need direct Bangla experiments.
+Reproducibility/open science,Low,Moderate,Serious,Moderate,Serious,Likely,Low,Many models/datasets have incomplete code/checkpoints,Prefer open weights/data where possible.

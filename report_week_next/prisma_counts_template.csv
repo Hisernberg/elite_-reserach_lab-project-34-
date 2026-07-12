@@ -1,0 +1,11 @@
+PRISMA_Item,Count_or_Formula,Notes
+Records identified from databases/registers,430,Planned target; replace after locked database export
+Records identified from citation chasing/hand search,35,Backward/forward snowballing only after database search locked
+Total records before deduplication,=B2+B3,Formula
+Duplicates removed,65,Zotero + Rayyan duplicate detection
+Records screened by title/abstract,=B4-B5,Formula
+Records excluded at title/abstract,260,"Not clinical, not NLP, outside task/year, non-peer-reviewed"
+Full-text reports assessed for eligibility,=B6-B7,Formula
+Full-text reports excluded,60,Log each reason in Excluded_Standby_Log
+Studies included in qualitative synthesis,=B8-B9,Target 80
+Studies included in quantitative/meta-analysis,0,SWiM; formal meta-analysis not planned due heterogeneity
